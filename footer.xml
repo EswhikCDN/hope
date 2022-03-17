@@ -1,4 +1,34 @@
 document.write(`
 
-        
+<!-- Library Bundle Script -->
+    <script src="https://eswhik.github.io/hope/assets/js/core/libs.min.js"></script>
+    
+    <!-- External Library Bundle Script -->
+    <script src="https://eswhik.github.io/hope/assets/js/core/external.min.js"></script>
+    
+    <!-- Widgetchart Script -->
+    <script src="https://eswhik.github.io/hope/assets/js/charts/widgetcharts.js"></script>
+    
+    <!-- mapchart Script -->
+    <script src="https://eswhik.github.io/hope/assets/js/charts/vectore-chart.js"></script>
+    <script src="https://eswhik.github.io/hope/assets/js/charts/dashboard.js" ></script>
+    
+    <!-- fslightbox Script -->
+    <script src="https://eswhik.github.io/hope/assets/js/plugins/fslightbox.js"></script>
+    
+    <!-- Settings Script -->
+    <script src="https://eswhik.github.io/hope/assets/js/plugins/setting.js"></script>
+    
+    <!-- Slider-tab Script -->
+    <script src="https://eswhik.github.io/hope/assets/js/plugins/slider-tabs.js"></script>
+    
+    <!-- Form Wizard Script -->
+    <script src="https://eswhik.github.io/hope/assets/js/plugins/form-wizard.js"></script>
+    
+    <!-- AOS Animation Plugin-->
+    <script src="https://eswhik.github.io/hope/assets/vendor/aos/dist/aos.js"></script>
+    
+    <!-- App Script -->
+    <script src="https://eswhik.github.io/hope/assets/js/hope-ui.js" defer></script>
+
 `)
