@@ -1,4 +1,24 @@
 document.write(`
 
+<!-- Library / Plugin Css Build -->
+      <link rel="stylesheet" href="https://eswhik.github.io/hope/assets/css/core/libs.min.css" />
+      
+      <!-- Aos Animation Css -->
+      <link rel="stylesheet" href="https://eswhik.github.io/hope/assets/vendor/aos/dist/aos.css" />
+      
+      <!-- Hope Ui Design System Css -->
+      <link rel="stylesheet" href="https://eswhik.github.io/hope/assets/css/hope-ui.min.css?v=1.2.0" />
+      
+      <!-- Custom Css -->
+      <link rel="stylesheet" href="https://eswhik.github.io/hope/assets/css/custom.min.css?v=1.2.0" />
+      
+      <!-- Dark Css -->
+      <link rel="stylesheet" href="https://eswhik.github.io/hope/assets/css/dark.min.css"/>
+      
+      <!-- Customizer Css -->
+      <link rel="stylesheet" href="https://eswhik.github.io/hope/assets/css/customizer.min.css" />
+      
+      <!-- RTL Css -->
+      <link rel="stylesheet" href="https://eswhik.github.io/hope/assets/css/rtl.min.css"/>
 
 `)
